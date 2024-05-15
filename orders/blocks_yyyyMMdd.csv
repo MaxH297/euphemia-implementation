@@ -1,0 +1,6 @@
+# Daily Manual Auction Block Bids
+#
+# Data type(ST);Delivery Date;Currency;Creation Time;Creation date
+# Data type(BB);BlockID;Block Type;BlockCodePRM;Execution;Limit Price;Volume H01;Volume H02;Volume H03A;Volume H03B;Volume H04;Volume H05;Volume H06;Volume H07;Volume H08;Volume H09;Volume H10;Volume H11;Volume H12;Volume H13;Volume H14;Volume H15;Volume H16;Volume H17;Volume H18;Volume H19;Volume H20;Volume H21;Volume H22;Volume H23;Volume H24;MAR;AAR
+# Data type(AL);Number of lines
+#
